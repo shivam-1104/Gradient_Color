@@ -35,6 +35,6 @@ function updateBackground() {
 button1.addEventListener('click', () => updateButtonColor(button1));
 button2.addEventListener('click', () => updateButtonColor(button2));
 
-// Initialize colors
+
 updateButtonColor(button1);
 updateButtonColor(button2);
